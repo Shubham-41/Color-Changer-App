@@ -17,5 +17,3 @@ This simple app allows users to change the background color of the webpage by cl
 - CSS
 - JavaScript (Event Delegation)
 
-## License:
-MIT License
